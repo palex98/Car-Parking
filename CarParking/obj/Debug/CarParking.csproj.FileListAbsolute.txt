@@ -1,0 +1,7 @@
+F:\CSharpProjects\CarParking\CarParking\CarParking\bin\Debug\CarParking.exe.config
+F:\CSharpProjects\CarParking\CarParking\CarParking\bin\Debug\CarParking.exe
+F:\CSharpProjects\CarParking\CarParking\CarParking\bin\Debug\CarParking.pdb
+F:\CSharpProjects\CarParking\CarParking\CarParking\obj\Debug\CarParking.csprojResolveAssemblyReference.cache
+F:\CSharpProjects\CarParking\CarParking\CarParking\obj\Debug\CarParking.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\CarParking\CarParking\CarParking\obj\Debug\CarParking.exe
+F:\CSharpProjects\CarParking\CarParking\CarParking\obj\Debug\CarParking.pdb
